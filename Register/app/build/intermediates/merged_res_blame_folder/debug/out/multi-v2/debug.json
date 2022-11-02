@@ -1144,7 +1144,7 @@
             "outputFile": "com.example.register.app-merged_res-29:/values-night-v8_values-night-v8.arsc.flat",
             "map": [
                 {
-                    "source": "D:\\java_github\\java\\Register\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "source": "D:\\interface java\\Register_account\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -2215,6 +2215,25 @@
                     }
                 },
                 {
+                    "source": "D:\\interface java\\Register_account\\app\\src\\main\\res\\values\\themes.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "100",
+                        "endLines": "14",
+                        "endColumns": "12",
+                        "endOffsets": "797"
+                    },
+                    "to": {
+                        "startLines": "5983",
+                        "startColumns": "4",
+                        "startOffsets": "408691",
+                        "endLines": "5995",
+                        "endColumns": "12",
+                        "endOffsets": "409267"
+                    }
+                },
+                {
                     "source": "C:\\Users\\LAPTOP DELL\\.gradle\\caches\\transforms-3\\7d95e43c055dff7ebb1687bda552bb63\\transformed\\viewpager2-1.0.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -2231,23 +2250,6 @@
                         "endLines": "12550",
                         "endColumns": "24",
                         "endOffsets": "715679"
-                    }
-                },
-                {
-                    "source": "D:\\java_github\\java\\Register\\app\\src\\main\\res\\values\\colors.xml",
-                    "from": {
-                        "startLines": "7,2,3,4,5,6,8",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "286,55,102,149,196,241,328",
-                        "endColumns": "41,46,46,46,44,44,41",
-                        "endOffsets": "323,97,144,191,236,281,365"
-                    },
-                    "to": {
-                        "startLines": "611,835,836,837,848,849,852",
-                        "startColumns": "4,4,4,4,4,4,4",
-                        "startOffsets": "31106,47164,47211,47258,48002,48047,48213",
-                        "endColumns": "41,46,46,46,44,44,41",
-                        "endOffsets": "31143,47206,47253,47300,48042,48087,48250"
                     }
                 },
                 {
@@ -2363,25 +2365,6 @@
                     }
                 },
                 {
-                    "source": "D:\\java_github\\java\\Register\\app\\src\\main\\res\\values\\themes.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "100",
-                        "endLines": "14",
-                        "endColumns": "12",
-                        "endOffsets": "797"
-                    },
-                    "to": {
-                        "startLines": "5983",
-                        "startColumns": "4",
-                        "startOffsets": "408691",
-                        "endLines": "5995",
-                        "endColumns": "12",
-                        "endOffsets": "409267"
-                    }
-                },
-                {
                     "source": "C:\\Users\\LAPTOP DELL\\.gradle\\caches\\transforms-3\\0758de52a88bd0e13e04f350fcb3ffe3\\transformed\\appcompat-resources-1.5.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,18,24,34,50",
@@ -2398,6 +2381,23 @@
                         "endLines": "8463,8469,8479,11917,11921",
                         "endColumns": "24,24,24,24,24",
                         "endOffsets": "565952,566130,566414,692472,692599"
+                    }
+                },
+                {
+                    "source": "D:\\interface java\\Register_account\\app\\src\\main\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "7,2,3,4,5,6,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "286,55,102,149,196,241,328",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "323,97,144,191,236,281,365"
+                    },
+                    "to": {
+                        "startLines": "611,835,836,837,848,849,852",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "31106,47164,47211,47258,48002,48047,48213",
+                        "endColumns": "41,46,46,46,44,44,41",
+                        "endOffsets": "31143,47206,47253,47300,48042,48087,48250"
                     }
                 },
                 {
@@ -2452,23 +2452,6 @@
                     }
                 },
                 {
-                    "source": "D:\\java_github\\java\\Register\\app\\src\\main\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "1",
-                        "startColumns": "4",
-                        "startOffsets": "16",
-                        "endColumns": "45",
-                        "endOffsets": "57"
-                    },
-                    "to": {
-                        "startLines": "1690",
-                        "startColumns": "4",
-                        "startOffsets": "105250",
-                        "endColumns": "45",
-                        "endOffsets": "105291"
-                    }
-                },
-                {
                     "source": "C:\\Users\\LAPTOP DELL\\.gradle\\caches\\transforms-3\\1cfebe30befdf5d4ea1358867794a3f3\\transformed\\activity-1.5.1\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2",
@@ -2502,6 +2485,23 @@
                         "endLines": "443,605,606,825,826,939,940,941,942,943,944,945,1449,1450,1451,1452,1453,1454,1455,1456,1457,1458,1459,1460,1461,1462,1463,1474,1475,1476,1477,1478,1479,1480,1481,1482,1483,1484,1485,1486,1487,1488,1489,1490,1491,1492,1493,1494,1495,1496,1497,1498,1499,1500,1501,1502,1503,1504,1505,1506,1507,1508,1518,1519,1546,1547,1548,1549,1550,1551,1552,1553,1554,1555,1556,1557,1558,1559,1560,1568,1657,1811,5512,5516,5517,5521,5522,6547,6548,9249,9617,10474,10495,10543,10549",
                         "endColumns": "59,71,87,68,62,69,67,71,69,60,73,72,60,60,61,63,61,60,67,99,59,65,72,68,56,51,61,71,75,64,58,58,59,59,59,59,59,59,59,59,59,59,58,59,59,59,59,59,59,59,59,59,59,58,59,59,58,58,58,58,58,58,34,34,54,62,54,57,57,60,62,56,50,49,60,56,65,33,34,34,69,70,116,12,109,12,128,71,66,24,24,24,24,24,24",
                         "endOffsets": "22569,30694,30782,46508,46571,54059,54127,54199,54269,54330,54404,54477,90625,90686,90748,90812,90874,90935,91003,91103,91163,91229,91302,91371,91428,91480,91542,92344,92420,92485,92544,92603,92663,92723,92783,92843,92903,92963,93023,93083,93143,93203,93262,93322,93382,93442,93502,93562,93622,93682,93742,93802,93862,93921,93981,94041,94100,94159,94218,94277,94336,94395,94879,94914,96361,96424,96479,96537,96595,96656,96719,96776,96827,96877,96938,96995,97061,97095,97130,97512,102976,122357,377099,377300,377410,377611,377740,449039,449106,593067,605722,640632,641313,642539,642706"
+                    }
+                },
+                {
+                    "source": "D:\\interface java\\Register_account\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "1",
+                        "startColumns": "4",
+                        "startOffsets": "16",
+                        "endColumns": "45",
+                        "endOffsets": "57"
+                    },
+                    "to": {
+                        "startLines": "1690",
+                        "startColumns": "4",
+                        "startOffsets": "105250",
+                        "endColumns": "45",
+                        "endOffsets": "105291"
                     }
                 }
             ]

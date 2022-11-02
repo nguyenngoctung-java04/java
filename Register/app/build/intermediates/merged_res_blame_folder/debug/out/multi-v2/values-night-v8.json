@@ -4,7 +4,7 @@
             "outputFile": "com.example.register.app-mergeDebugResources-27:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "D:\\java_github\\java\\Register\\app\\src\\main\\res\\values-night\\themes.xml",
+                    "source": "D:\\interface java\\Register_account\\app\\src\\main\\res\\values-night\\themes.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
