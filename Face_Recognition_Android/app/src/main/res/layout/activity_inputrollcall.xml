@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".inputrollcallActivity">
+
+    <TextView
+        android:id="@+id/tv_exportfile_heading"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="27dp"
+        android:layout_marginTop="83dp"
+        android:layout_marginEnd="27dp"
+        android:text="ĐIỂM DANH"
+        android:textAlignment="center"
+        android:textColor="#5E0CC7"
+        android:textSize="38sp"
+        android:textStyle="bold" />
+
+    <Spinner
+        android:id="@+id/spnChooseClass"
+        android:layout_width="134dp"
+        android:layout_height="33dp"
+        android:layout_below="@+id/tv_exportfile_class"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="-30dp"
+        android:layout_marginEnd="105dp"
+        android:layout_toEndOf="@+id/tv_exportfile_class"
+        android:minHeight="48dp"
+        android:scrollbarSize="40dp" />
+
+    <TextView
+        android:id="@+id/tv_exportfile_class"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tv_exportfile_heading"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="108dp"
+        android:layout_marginTop="97dp"
+        android:text="Lớp:"
+        android:textColor="#5E0CC7"
+        android:textSize="20sp"
+        android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btn_exportfile"
+        android:layout_width="wrap_content"
+        android:layout_height="70dp"
+        android:layout_below="@+id/spnChooseClass"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="152dp"
+        android:layout_marginEnd="40dp"
+        android:text="Bắt Đầu Điểm Danh"
+        android:onClick="Onclick_StartRollCall"
+        android:textSize="20sp"
+        android:textStyle="bold"
+        app:cornerRadius="40dp" />
+
+    <ImageView
+        android:id="@+id/ivBackRollCall"
+        android:layout_width="35dp"
+        android:layout_height="35dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="24sp"
+        android:layout_marginTop="24sp"
+        android:onClick="onclick_InputBackRollCall"
+        app:srcCompat="@drawable/signout_icon" />
+
+</RelativeLayout>
